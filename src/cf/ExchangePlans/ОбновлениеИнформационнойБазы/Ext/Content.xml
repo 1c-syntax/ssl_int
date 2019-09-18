@@ -317,10 +317,6 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Constant.ИспользоватьОбщиеДополнительныеЗначения</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.ФайлыВРабочемКаталоге</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -485,7 +481,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Constant.ИспользоватьПрофилиБезопасностиДляДОиО</Metadata>
+		<Metadata>Constant.ИспользоватьПрофилиБезопасностиДляДОО</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -501,7 +497,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Constant.РазрешитьВыполнениеДОИОРегламентнымиЗаданиямиВМоделиСервиса</Metadata>
+		<Metadata>Constant.РазрешитьВыполнениеДООРегламентнымиЗаданиямиВМоделиСервиса</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -758,10 +754,6 @@
 	</Item>
 	<Item>
 		<Metadata>Constant.КаталогСообщенийОбменаДаннымиДляLinux</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.ПервоеОбновлениеДоступаЗавершилось</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -1174,10 +1166,6 @@
 	</Item>
 	<Item>
 		<Metadata>InformationRegister.КомментарииОперацииСтатистики</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.ИспользоватьОбщиеДополнительныеРеквизитыИСведения</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>

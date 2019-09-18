@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.9">
-	<Configuration uuid="c604e363-350f-4532-875d-8a35e74a9eea">
+	<Configuration uuid="425438ea-ad8d-4289-a523-a3e0ae1a85dd">
 		<InternalInfo>
 			<xr:ContainedObject>
 				<xr:ClassId>9cd510cd-abfc-11d4-9434-004095e12fc7</xr:ClassId>
-				<xr:ObjectId>423e7fb3-2626-4008-8233-2e50572ac294</xr:ObjectId>
+				<xr:ObjectId>a23c1d19-db1c-48dd-9e3e-9f853a2d718f</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>9fcd25a0-4822-11d4-9414-008048da11f9</xr:ClassId>
-				<xr:ObjectId>50751883-eceb-430b-a21c-aeff0103705d</xr:ObjectId>
+				<xr:ObjectId>73b412a6-d9b2-45c3-90c4-85f4c7f4e7ff</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>e3687481-0a87-462c-a166-9f34594f9bba</xr:ClassId>
-				<xr:ObjectId>f191c8f1-925b-40b8-83f4-25d092d86f18</xr:ObjectId>
+				<xr:ObjectId>0c93697f-86f6-4b47-90bb-47e857adca89</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>9de14907-ec23-4a07-96f0-85521cb6b53b</xr:ClassId>
-				<xr:ObjectId>4615b96a-e808-4a2e-8647-3f6d32205f4e</xr:ObjectId>
+				<xr:ObjectId>e822c0b3-5ac7-45d9-a029-b3f9d38c9b35</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>51f2d5d8-ea4d-4064-8892-82951750031e</xr:ClassId>
-				<xr:ObjectId>b506fa0d-33d0-4126-8966-7636f440001b</xr:ObjectId>
+				<xr:ObjectId>c8d77c01-8995-400c-90c2-45edf78d13be</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>e68182ea-4237-4383-967f-90c1e3370bc7</xr:ClassId>
-				<xr:ObjectId>677c12bc-79ac-4ea8-9c8f-2b55c0c90245</xr:ObjectId>
+				<xr:ObjectId>13dc901e-b526-46c6-a61b-4f3a1b547c8b</xr:ObjectId>
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
@@ -49,7 +49,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.ИнтерактивноеОткрытиеВнешнихОтчетовИОбработок</xr:Item>
 			</DefaultRoles>
 			<Vendor>Фирма "1С"</Vendor>
-			<Version>3.1.1.151</Version>
+			<Version>3.1.2.150</Version>
 			<UpdateCatalogAddress>http://downloads.v8.1c.ru/tmplts/</UpdateCatalogAddress>
 			<IncludeHelpInContents>true</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -209,37 +209,51 @@
 			<StyleItem>ВидДняПроизводственногоКалендаряПредпраздничныйЦвет</StyleItem>
 			<StyleItem>ВидДняПроизводственногоКалендаряРабочийЦвет</StyleItem>
 			<StyleItem>ВидДняПроизводственногоКалендаряСубботаЦвет</StyleItem>
+			<StyleItem>ВладелецФайловШрифт</StyleItem>
 			<StyleItem>ВыполненнаяЗадача</StyleItem>
 			<StyleItem>ГиперссылкаЦвет</StyleItem>
+			<StyleItem>ГиперссылкаШрифт</StyleItem>
+			<StyleItem>ГруппаВариантовОтчетовВажнаяШрифт</StyleItem>
+			<StyleItem>ГруппаВариантовОтчетовОбычнаяШрифт</StyleItem>
 			<StyleItem>ГруппаВариантовОтчетовЦвет</StyleItem>
 			<StyleItem>ГруппаВариантовОтчетовЦвет82</StyleItem>
 			<StyleItem>ДатаГрафикаИзмененнаяФон</StyleItem>
 			<StyleItem>ДобавленныйРеквизитФон</StyleItem>
 			<StyleItem>ЗаблокированныйРеквизитЦвет</StyleItem>
 			<StyleItem>ЗавершенныйБизнесПроцесс</StyleItem>
+			<StyleItem>ЗаголовокГруппировкиОтчетаОДвиженияхДокументаШрифт</StyleItem>
+			<StyleItem>ЗаголовокГруппыШрифт</StyleItem>
 			<StyleItem>ЗаголовокДелаЦвет</StyleItem>
 			<StyleItem>ЗаголовокУдаленногоРеквизитаФон</StyleItem>
+			<StyleItem>ЗаголовокУдаленногоРеквизитаШрифт</StyleItem>
 			<StyleItem>ЗапрещенноеПравоДоступа</StyleItem>
+			<StyleItem>ЗаявлениеНаВыпускСертификатаЗаголовокКлючевогоПоляШрифт</StyleItem>
 			<StyleItem>ИзмененноеЗначениеРеквизитаФон</StyleItem>
 			<StyleItem>ИзмененноеЗначениеРеквизитаЦвет</StyleItem>
 			<StyleItem>ИтогиФонГруппы</StyleItem>
+			<StyleItem>КомандаПомощникаНастройкиСинхронизацииВажнаяШрифт</StyleItem>
+			<StyleItem>КомандаПомощникаНастройкиСинхронизацииОбычнаяШрифт</StyleItem>
 			<StyleItem>КонтактнаяИнформацияСРедактированиемВДиалогеЦвет</StyleItem>
 			<StyleItem>МоиВариантыОтчетовЦвет</StyleItem>
 			<StyleItem>НепринятаяВерсия</StyleItem>
 			<StyleItem>НеПринятыеКИсполнениюЗадачи</StyleItem>
 			<StyleItem>НеСтартованныйБизнесПроцесс</StyleItem>
+			<StyleItem>ОсновнойЭлементСписка</StyleItem>
 			<StyleItem>ОшибкаПолнотекстовыйПоискФон</StyleItem>
 			<StyleItem>ПользовательВыбранный</StyleItem>
 			<StyleItem>ПоясняющийОшибкуТекст</StyleItem>
 			<StyleItem>ПоясняющийТекст</StyleItem>
 			<StyleItem>ПросроченныеДанныеЦвет</StyleItem>
+			<StyleItem>РазделВариантовОтчетовШрифт</StyleItem>
 			<StyleItem>РезультатУспехЦвет</StyleItem>
 			<StyleItem>РольБезИсполнителей</StyleItem>
 			<StyleItem>СкрытыйВариантОтчетаЦвет</StyleItem>
 			<StyleItem>ТекстЗапрещеннойЯчейкиЦвет</StyleItem>
-			<StyleItem>УдаленныйДополнительныйРеквизитШрифт</StyleItem>
+			<StyleItem>ТекущиеДелаЗаголовокДочернегоДела</StyleItem>
+			<StyleItem>ТекущиеДелаЗаголовокРазделаШрифт</StyleItem>
 			<StyleItem>УдаленныйРеквизитФон</StyleItem>
 			<StyleItem>ФайлЗанятыйТекущимПользователем</StyleItem>
+			<StyleItem>ФонРезультатовПоиска</StyleItem>
 			<StyleItem>ФонУправляющегоПоля</StyleItem>
 			<StyleItem>ЦветПустойГиперссылки</StyleItem>
 			<StyleItem>ЦветРазделаПанелиФункций</StyleItem>
@@ -341,6 +355,7 @@
 			<CommonPicture>ИсторияИзменений</CommonPicture>
 			<CommonPicture>Количество</CommonPicture>
 			<CommonPicture>КоличествоРассмотрено</CommonPicture>
+			<CommonPicture>КоллекцияВажностьПроблемВеденияУчета</CommonPicture>
 			<CommonPicture>КоллекцияВариантыВажности</CommonPicture>
 			<CommonPicture>КоллекцияВидыАктивныхПользователей</CommonPicture>
 			<CommonPicture>КоллекцияВидыСобытийЖурналаРегистрации</CommonPicture>
@@ -424,6 +439,7 @@
 			<CommonPicture>ПозвонитьИлиОтправитьSMS</CommonPicture>
 			<CommonPicture>ПоказатьОтличия</CommonPicture>
 			<CommonPicture>ПоказатьТолькоВыбранныеРоли</CommonPicture>
+			<CommonPicture>ПолезныйСоветКонтрольВеденияУчета</CommonPicture>
 			<CommonPicture>ПолужирноеНачертание</CommonPicture>
 			<CommonPicture>ПользовательскийМакетУдалить</CommonPicture>
 			<CommonPicture>ПоляИСортировки</CommonPicture>
@@ -566,6 +582,8 @@
 			<SessionParameter>ДатаОбновленияПовторноИспользуемыхЗначенийМРО</SessionParameter>
 			<SessionParameter>ДействующиеДатыЗапретаИзменения</SessionParameter>
 			<SessionParameter>ИдентификаторыТаблицСОтдельнымиНастройкамиПрав</SessionParameter>
+			<SessionParameter>ИнтерактивнаяПроверкаЗаполненияКонтактнойИнформации</SessionParameter>
+			<SessionParameter>ИнтерактивнаяПроверкаЗаполненияСвойств</SessionParameter>
 			<SessionParameter>КлючДанныхПовторногоИспользования</SessionParameter>
 			<SessionParameter>КомментарийЗамераВремени</SessionParameter>
 			<SessionParameter>ОбластьДанныхЗначение</SessionParameter>
@@ -574,6 +592,7 @@
 			<SessionParameter>ОбщиеПараметрыШаблоновОграниченияДоступа</SessionParameter>
 			<SessionParameter>ОграничениеДоступаНаУровнеЗаписейИспользуется</SessionParameter>
 			<SessionParameter>ОграничениеДоступаНаУровнеЗаписейУниверсально</SessionParameter>
+			<SessionParameter>ОсновнойЯзык</SessionParameter>
 			<SessionParameter>ОтключениеОбновленияКлючейДоступа</SessionParameter>
 			<SessionParameter>ОтмененныеДлительныеОперации</SessionParameter>
 			<SessionParameter>ОшибкаРасхожденияВерсийПриПолученииДанных</SessionParameter>
@@ -597,6 +616,7 @@
 			<SessionParameter>СпискиСОграничениемЧерезКлючиДоступаГруппДоступа</SessionParameter>
 			<SessionParameter>СпискиСОграничениемЧерезКлючиДоступаПользователей</SessionParameter>
 			<SessionParameter>СпискиСОтключеннымОграничениемЧтения</SessionParameter>
+			<SessionParameter>СчетчикПроблемВеденияУчета</SessionParameter>
 			<SessionParameter>ТаблицыРасширенийСОграничениемДоступа</SessionParameter>
 			<SessionParameter>ТаблицыСОтдельнымиНастройкамиПрав</SessionParameter>
 			<SessionParameter>ТекущийВнешнийПользователь</SessionParameter>
@@ -681,6 +701,7 @@
 			<Role>ЧтениеОтветовНаВопросыАнкет</Role>
 			<Role>ЧтениеРассылокОтчетов</Role>
 			<Role>ЧтениеРезультатовПроверкиУчета</Role>
+			<Role>ЧтениеУчетныхЗаписейЭлектроннойПочты</Role>
 			<Role>ЧтениеШаблоновСообщений</Role>
 			<CommonTemplate>ИнструкцияКакВыполнитьУстановкуОбновленияВручную</CommonTemplate>
 			<CommonTemplate>ИнструкцияПоСозданиюФаксимильнойПодписиИПечати</CommonTemplate>
@@ -804,14 +825,18 @@
 			<CommonModule>КалендарныеГрафикиПереопределяемый</CommonModule>
 			<CommonModule>КалендарныеГрафикиСлужебный</CommonModule>
 			<CommonModule>КонтрольВеденияУчета</CommonModule>
+			<CommonModule>КонтрольВеденияУчетаВызовСервера</CommonModule>
+			<CommonModule>КонтрольВеденияУчетаГлобальный</CommonModule>
 			<CommonModule>КонтрольВеденияУчетаКлиент</CommonModule>
 			<CommonModule>КонтрольВеденияУчетаПереопределяемый</CommonModule>
 			<CommonModule>КонтрольВеденияУчетаСлужебный</CommonModule>
 			<CommonModule>КонтрольВеденияУчетаСлужебныйКлиент</CommonModule>
 			<CommonModule>КонтрольВеденияУчетаСлужебныйПовтИсп</CommonModule>
-			<CommonModule>ЛокализацияКлиент</CommonModule>
-			<CommonModule>ЛокализацияКлиентСервер</CommonModule>
-			<CommonModule>ЛокализацияСервер</CommonModule>
+			<CommonModule>МультиязычностьКлиент</CommonModule>
+			<CommonModule>МультиязычностьКлиентСервер</CommonModule>
+			<CommonModule>МультиязычностьПереопределяемый</CommonModule>
+			<CommonModule>МультиязычностьПовтИсп</CommonModule>
+			<CommonModule>МультиязычностьСервер</CommonModule>
 			<CommonModule>НапоминанияПользователя</CommonModule>
 			<CommonModule>НапоминанияПользователяВызовСервера</CommonModule>
 			<CommonModule>НапоминанияПользователяГлобальный</CommonModule>
@@ -959,6 +984,7 @@
 			<CommonModule>РаботаСПочтовымиСообщениямиПереопределяемый</CommonModule>
 			<CommonModule>РаботаСПочтовымиСообщениямиСлужебный</CommonModule>
 			<CommonModule>РаботаСФайлами</CommonModule>
+			<CommonModule>РаботаСФайламиВТомахСлужебный</CommonModule>
 			<CommonModule>РаботаСФайламиКлиент</CommonModule>
 			<CommonModule>РаботаСФайламиКлиентПереопределяемый</CommonModule>
 			<CommonModule>РаботаСФайламиКлиентСервер</CommonModule>
@@ -978,7 +1004,6 @@
 			<CommonModule>РассылкаОтчетовКлиентСервер</CommonModule>
 			<CommonModule>РассылкаОтчетовПереопределяемый</CommonModule>
 			<CommonModule>РассылкаОтчетовПовтИсп</CommonModule>
-			<CommonModule>РегламентированныеДанныеКлиентСервер</CommonModule>
 			<CommonModule>РегламентныеЗаданияКлиент</CommonModule>
 			<CommonModule>РегламентныеЗаданияПереопределяемый</CommonModule>
 			<CommonModule>РегламентныеЗаданияСервер</CommonModule>
@@ -994,6 +1019,9 @@
 			<CommonModule>СоединенияИБКлиент</CommonModule>
 			<CommonModule>СоединенияИБКлиентСервер</CommonModule>
 			<CommonModule>СоединенияИБПереопределяемый</CommonModule>
+			<CommonModule>СозданиеНаОсновании</CommonModule>
+			<CommonModule>СозданиеНаОснованииПереопределяемый</CommonModule>
+			<CommonModule>СозданиеНаОснованииПовтИсп</CommonModule>
 			<CommonModule>СообщенияАдминистрированиеОбменаДаннымиКонтрольИнтерфейс</CommonModule>
 			<CommonModule>СообщенияАдминистрированиеОбменаДаннымиКонтрольОбработчикСообщения_2_1_2_1</CommonModule>
 			<CommonModule>СообщенияАдминистрированиеОбменаДаннымиУправлениеИнтерфейс</CommonModule>
@@ -1015,7 +1043,6 @@
 			<CommonModule>СтандартныеПодсистемыГлобальный</CommonModule>
 			<CommonModule>СтандартныеПодсистемыКлиент</CommonModule>
 			<CommonModule>СтандартныеПодсистемыКлиентПовтИсп</CommonModule>
-			<CommonModule>СтандартныеПодсистемыКлиентСерверЛокализация</CommonModule>
 			<CommonModule>СтандартныеПодсистемыПовтИсп</CommonModule>
 			<CommonModule>СтандартныеПодсистемыСервер</CommonModule>
 			<CommonModule>СтроковыеФункции</CommonModule>
@@ -1093,6 +1120,10 @@
 			<CommonModule>ЭлектроннаяПодписьСлужебныйКлиент</CommonModule>
 			<CommonModule>ЭлектроннаяПодписьСлужебныйКлиентСервер</CommonModule>
 			<CommonModule>ЭлектроннаяПодписьСлужебныйПовтИсп</CommonModule>
+			<CommonAttribute>КомментарийЯзык1</CommonAttribute>
+			<CommonAttribute>КомментарийЯзык2</CommonAttribute>
+			<CommonAttribute>НаименованиеЯзык1</CommonAttribute>
+			<CommonAttribute>НаименованиеЯзык2</CommonAttribute>
 			<CommonAttribute>ОбластьДанныхВспомогательныеДанные</CommonAttribute>
 			<CommonAttribute>ОбластьДанныхОсновныеДанные</CommonAttribute>
 			<ExchangePlan>ОбновлениеИнформационнойБазы</ExchangePlan>
@@ -1117,7 +1148,8 @@
 			<XDTOPackage>EnterpriseData_1_3_20</XDTOPackage>
 			<XDTOPackage>EnterpriseData_1_4_20</XDTOPackage>
 			<XDTOPackage>EnterpriseData_1_5_20</XDTOPackage>
-			<XDTOPackage>EnterpriseData_1_6_20</XDTOPackage>
+			<XDTOPackage>EnterpriseData_1_6_21</XDTOPackage>
+			<XDTOPackage>EnterpriseData_1_7_4</XDTOPackage>
 			<XDTOPackage>EnterpriseDataExchange_1_0_1_1</XDTOPackage>
 			<XDTOPackage>ExchangeMessage</XDTOPackage>
 			<XDTOPackage>Patch</XDTOPackage>
@@ -1155,6 +1187,7 @@
 			<EventSubscription>ВыполнитьДействияПослеПолученияДанныхУзлаВРаспределеннойИнформационнойБазе</EventSubscription>
 			<EventSubscription>ВыполнитьДействияПриЗаписиПрисоединенногоФайла</EventSubscription>
 			<EventSubscription>ДополнительныеОтчетыИОбработкиПередУдалениемИдентификатораОбъектаМетаданных</EventSubscription>
+			<EventSubscription>ДополнительныеРеквизитыОбработкаПроверкиЗаполнения</EventSubscription>
 			<EventSubscription>ЗаписатьВерсиюОбъекта</EventSubscription>
 			<EventSubscription>ЗаписатьВСписокБизнесПроцессов</EventSubscription>
 			<EventSubscription>ЗаписатьЗависимыеНаборыЗначенийДоступа</EventSubscription>
@@ -1167,10 +1200,12 @@
 			<EventSubscription>ЗапретитьУдалениеПредопределенныхЭлементов</EventSubscription>
 			<EventSubscription>ЗарегистрироватьИзмененияОбщихДанныхУзлов</EventSubscription>
 			<EventSubscription>ЗарегистрироватьИзмененияФильтровОграниченияМиграцииДанных</EventSubscription>
+			<EventSubscription>КонтактнаяИнформацияОбработкаПроверкиЗаполнения</EventSubscription>
 			<EventSubscription>КонтрольНеразделенныхНаборовЗаписейПриЗаписи</EventSubscription>
 			<EventSubscription>КонтрольНеразделенныхОбъектовПриЗаписи</EventSubscription>
 			<EventSubscription>ОбновитьГруппыВладельцевНастроекПрав</EventSubscription>
 			<EventSubscription>ОбновитьГруппыЗначенийДоступа</EventSubscription>
+			<EventSubscription>ОбновитьЗначенияГруппДоступа</EventSubscription>
 			<EventSubscription>ОбновитьКонтактнуюИнформацию</EventSubscription>
 			<EventSubscription>ОбновитьПредставлениеВнешнегоПользователя</EventSubscription>
 			<EventSubscription>ОбновитьСостояниеБизнесПроцесса</EventSubscription>
@@ -1180,6 +1215,7 @@
 			<EventSubscription>ОбработкаПроверкиЗаполненияПрисоединенногоФайла</EventSubscription>
 			<EventSubscription>ОтключитьАвтоматическуюСинхронизациюДанных</EventSubscription>
 			<EventSubscription>ОтключитьИспользованиеПланаОбмена</EventSubscription>
+			<EventSubscription>ОтключитьРассылкиПередУдалениемТипаПолучателейРассылки</EventSubscription>
 			<EventSubscription>ОтменитьОтправкуДанныхУзлаВРаспределеннойИнформационнойБазе</EventSubscription>
 			<EventSubscription>ОчиститьИнформациюОбАвтореВерсии</EventSubscription>
 			<EventSubscription>ОчиститьСсылкиНаУзелИнформационнойБазы</EventSubscription>
@@ -1270,11 +1306,11 @@
 			<FunctionalOption>ИспользоватьДополнительныеОбработкиСозданияСвязанныхОбъектов</FunctionalOption>
 			<FunctionalOption>ИспользоватьДополнительныеОтчетыИОбработки</FunctionalOption>
 			<FunctionalOption>ИспользоватьДополнительныеРеквизитыИСведения</FunctionalOption>
+			<FunctionalOption>ИспользоватьДополнительныйЯзык1</FunctionalOption>
+			<FunctionalOption>ИспользоватьДополнительныйЯзык2</FunctionalOption>
 			<FunctionalOption>ИспользоватьЗаметки</FunctionalOption>
 			<FunctionalOption>ИспользоватьНапоминанияПользователя</FunctionalOption>
 			<FunctionalOption>ИспользоватьНесколькоПроизводственныхКалендарей</FunctionalOption>
-			<FunctionalOption>ИспользоватьОбщиеДополнительныеЗначения</FunctionalOption>
-			<FunctionalOption>ИспользоватьОбщиеДополнительныеРеквизитыИСведения</FunctionalOption>
 			<FunctionalOption>ИспользоватьОнлайнПоддержку</FunctionalOption>
 			<FunctionalOption>ИспользоватьОтправкуSMSВШаблонахСообщений</FunctionalOption>
 			<FunctionalOption>ИспользоватьПодчиненныеБизнесПроцессы</FunctionalOption>
@@ -1319,6 +1355,7 @@
 			<DefinedType>ВерсионируемыеДанные</DefinedType>
 			<DefinedType>ВерсионируемыеДанныеОбъект</DefinedType>
 			<DefinedType>ВладелецВнешнихЗначенийВНаборахЗначенийДоступаОбъект</DefinedType>
+			<DefinedType>ВладелецГрафикаРаботы</DefinedType>
 			<DefinedType>ВладелецДополнительныхСведений</DefinedType>
 			<DefinedType>ВладелецЗначенийКлючейДоступа</DefinedType>
 			<DefinedType>ВладелецЗначенийКлючейДоступаДокумент</DefinedType>
@@ -1407,6 +1444,7 @@
 			<CommonCommand>РедактируемыеФайлы</CommonCommand>
 			<CommonCommand>РолиИИсполнителиЗадач</CommonCommand>
 			<CommonCommand>СведенияОПользователе</CommonCommand>
+			<CommonCommand>СвязанныеДокументы</CommonCommand>
 			<CommonCommand>СвязатьсяСоСпециалистомОнлайнПоддержки</CommonCommand>
 			<CommonCommand>СинхронизацияДанныхВМоделиСервиса</CommonCommand>
 			<CommonCommand>Синхронизировать</CommonCommand>
@@ -1418,10 +1456,9 @@
 			<CommonCommand>СозданиеСвязанныхОбъектов</CommonCommand>
 			<CommonCommand>СоздатьЗаметкуПоПредмету</CommonCommand>
 			<CommonCommand>СоставОтправляемыхДанных</CommonCommand>
-			<CommonCommand>СтруктураПодчиненности</CommonCommand>
 			<CommonCommand>СценарииСинхронизации</CommonCommand>
 			<CommonCommand>УдалитьНастройкуСинхронизации</CommonCommand>
-			<CommonCommand>УстановитьРасширениеРаботыСФайлами</CommonCommand>
+			<CommonCommand>УстановитьРасширениеДляРаботыС1СПредприятием</CommonCommand>
 			<CommonCommand>ФайлыВТоме</CommonCommand>
 			<CommandGroup>Взаимодействия</CommandGroup>
 			<CommandGroup>Информация</CommandGroup>
@@ -1442,6 +1479,8 @@
 			<Constant>ДатаПоследнейВыгрузкиЗамеровПроизводительностиUTC</Constant>
 			<Constant>ДатаУведомленияОНовыхЗадачах</Constant>
 			<Constant>ДетализироватьОбновлениеИБВЖурналеРегистрации</Constant>
+			<Constant>ДополнительныйЯзык1</Constant>
+			<Constant>ДополнительныйЯзык2</Constant>
 			<Constant>ЗаголовокСистемы</Constant>
 			<Constant>ЗагрузитьСообщениеОбменаДанными</Constant>
 			<Constant>ЗапретитьОтображениеНебезопасногоСодержимогоВПисьмах</Constant>
@@ -1464,18 +1503,18 @@
 			<Constant>ИспользоватьДатыЗапретаИзменения</Constant>
 			<Constant>ИспользоватьДополнительныеОтчетыИОбработки</Constant>
 			<Constant>ИспользоватьДополнительныеРеквизитыИСведения</Constant>
+			<Constant>ИспользоватьДополнительныйЯзык1</Constant>
+			<Constant>ИспользоватьДополнительныйЯзык2</Constant>
 			<Constant>ИспользоватьЗаметки</Constant>
 			<Constant>ИспользоватьНапоминанияПользователя</Constant>
 			<Constant>ИспользоватьНесколькоПроизводственныхКалендарей</Constant>
-			<Constant>ИспользоватьОбщиеДополнительныеЗначения</Constant>
-			<Constant>ИспользоватьОбщиеДополнительныеРеквизитыИСведения</Constant>
 			<Constant>ИспользоватьОнлайнПоддержку</Constant>
 			<Constant>ИспользоватьОтправкуSMSВШаблонахСообщений</Constant>
 			<Constant>ИспользоватьПодчиненныеБизнесПроцессы</Constant>
 			<Constant>ИспользоватьПолнотекстовыйПоиск</Constant>
 			<Constant>ИспользоватьПочтовыйКлиент</Constant>
 			<Constant>ИспользоватьПризнакРассмотрено</Constant>
-			<Constant>ИспользоватьПрофилиБезопасностиДляДОиО</Constant>
+			<Constant>ИспользоватьПрофилиБезопасностиДляДОО</Constant>
 			<Constant>ИспользоватьПрочиеВзаимодействия</Constant>
 			<Constant>ИспользоватьРазделениеПоОбластямДанных</Constant>
 			<Constant>ИспользоватьСинхронизациюДанных</Constant>
@@ -1507,6 +1546,7 @@
 			<Constant>НеИспользоватьРазделениеПоОбластямДанных</Constant>
 			<Constant>ОграничиватьДоступНаУровнеЗаписей</Constant>
 			<Constant>ОграничиватьДоступНаУровнеЗаписейУниверсально</Constant>
+			<Constant>ОсновнойЯзык</Constant>
 			<Constant>ОтложенноеОбновлениеВГлавномУзлеЗавершеноУспешно</Constant>
 			<Constant>ОтложенноеОбновлениеЗавершеноУспешно</Constant>
 			<Constant>ОтправлятьПисьмаВФорматеHTML</Constant>
@@ -1515,6 +1555,7 @@
 			<Constant>ПараметрыБлокировкиРаботыСВнешнимиРесурсами</Constant>
 			<Constant>ПараметрыИтоговИАгрегатов</Constant>
 			<Constant>ПараметрыРезервногоКопирования</Constant>
+			<Constant>ПараметрыХраненияФайловВИБ</Constant>
 			<Constant>ПараметрыЦентраМониторинга</Constant>
 			<Constant>ПервоеОбновлениеДоступаЗавершилось</Constant>
 			<Constant>ПериодХраненияЗамеров</Constant>
@@ -1527,12 +1568,13 @@
 			<Constant>ПровайдерSMS</Constant>
 			<Constant>ПроверятьЭлектронныеПодписиНаСервере</Constant>
 			<Constant>ПрофильБезопасностиИнформационнойБазы</Constant>
-			<Constant>РазрешитьВыполнениеДОИОРегламентнымиЗаданиямиВМоделиСервиса</Constant>
+			<Constant>РазрешитьВыполнениеДООРегламентнымиЗаданиямиВМоделиСервиса</Constant>
 			<Constant>СведенияОБлокируемыхОбъектах</Constant>
 			<Constant>СведенияОбОбновленииИБ</Constant>
 			<Constant>СинхронизироватьДанныеСПриложениемВИнтернетеПриЗавершенииРаботыПрограммы</Constant>
 			<Constant>СинхронизироватьДанныеСПриложениемВИнтернетеПриНачалеРаботыПрограммы</Constant>
 			<Constant>СинхронизироватьФайлы</Constant>
+			<Constant>СоздаватьПодкаталогиСИменамиВладельцев</Constant>
 			<Constant>СоздаватьЭлектронныеПодписиНаСервере</Constant>
 			<Constant>СообщениеОбменаДаннымиИзГлавногоУзла</Constant>
 			<Constant>СписокЗапрещенныхРасширений</Constant>
@@ -1540,6 +1582,7 @@
 			<Constant>СписокРасширенийТекстовыхФайлов</Constant>
 			<Constant>СписокРасширенийФайловOpenDocument</Constant>
 			<Constant>СписокРасширенийФайловOpenDocumentОбластиДанных</Constant>
+			<Constant>СпособХраненияФайлов</Constant>
 			<Constant>СтатусОбновленияКонфигурации</Constant>
 			<Constant>ХранитьФайлыВТомахНаДиске</Constant>
 			<Constant>ЭтоАвтономноеРабочееМесто</Constant>
@@ -1608,10 +1651,12 @@
 			<CommonForm>ПриоритетОбновленияВОбластяхДанных</CommonForm>
 			<CommonForm>ПустойРабочийСтол</CommonForm>
 			<CommonForm>Расширения</CommonForm>
+			<CommonForm>РегиональныеНастройки</CommonForm>
 			<CommonForm>РедактированиеГиперссылки</CommonForm>
 			<CommonForm>РедактированиеДополнительныхСведений</CommonForm>
 			<CommonForm>РедактированиеТабличногоДокумента</CommonForm>
 			<CommonForm>РезультатПроверки</CommonForm>
+			<CommonForm>СвязанныеДокументы</CommonForm>
 			<CommonForm>Сертификат</CommonForm>
 			<CommonForm>СинхронизацияДанных</CommonForm>
 			<CommonForm>СменаПароля</CommonForm>
@@ -1619,7 +1664,6 @@
 			<CommonForm>СохранениеВместеСЭлектроннойПодписью</CommonForm>
 			<CommonForm>СохранениеПечатнойФормы</CommonForm>
 			<CommonForm>СравнениеТабличныхДокументов</CommonForm>
-			<CommonForm>СтруктураПодчиненности</CommonForm>
 			<CommonForm>УстановкаВнешнейКомпонентыНевозможна</CommonForm>
 			<CommonForm>УстановленныеИсправления</CommonForm>
 			<CommonForm>УточнениеКонтактов</CommonForm>
@@ -1819,7 +1863,7 @@
 			<DataProcessor>ОценкаПроизводительности</DataProcessor>
 			<DataProcessor>ПанельАдминистрированияБСП</DataProcessor>
 			<DataProcessor>ПанельАдминистрированияБСПВМоделиСервиса</DataProcessor>
-			<DataProcessor>ПереносФайловВТома</DataProcessor>
+			<DataProcessor>ПереносФайлов</DataProcessor>
 			<DataProcessor>ПодключениеОбсуждений</DataProcessor>
 			<DataProcessor>ПоискИУдалениеДублей</DataProcessor>
 			<DataProcessor>ПолнотекстовыйПоискВДанных</DataProcessor>
@@ -1958,6 +2002,7 @@
 			<InformationRegister>СостоянияОбменовДаннымиОбластейДанных</InformationRegister>
 			<InformationRegister>СостоянияПапокПисем</InformationRegister>
 			<InformationRegister>СостоянияПредметовВзаимодействий</InformationRegister>
+			<InformationRegister>СостоянияПроверокВеденияУчета</InformationRegister>
 			<InformationRegister>СостоянияРассылокОтчетов</InformationRegister>
 			<InformationRegister>СостоянияУспешныхОбменовДанными</InformationRegister>
 			<InformationRegister>СостоянияУспешныхОбменовДаннымиОбластейДанных</InformationRegister>

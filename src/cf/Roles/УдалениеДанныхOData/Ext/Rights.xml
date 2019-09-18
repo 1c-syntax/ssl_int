@@ -679,6 +679,17 @@
 		</right>
 	</object>
 	<object>
+		<name>InformationRegister.СостоянияПроверокВеденияУчета</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Update</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Document.НазначениеОпросов</name>
 		<right>
 			<name>Read</name>
@@ -728,17 +739,6 @@
 		<name>Catalog.ИдентификаторыОбъектовМетаданных</name>
 		<right>
 			<name>Read</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.ИспользоватьОбщиеДополнительныеЗначения</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -2458,17 +2458,6 @@
 		</right>
 		<right>
 			<name>Delete</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.ИспользоватьОбщиеДополнительныеРеквизитыИСведения</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
 			<value>true</value>
 		</right>
 	</object>
