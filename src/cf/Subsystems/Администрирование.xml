@@ -106,6 +106,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Report.РезультатыПроверкиУчета</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.УстановленныеИсправления</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.НастройкаСтандартногоИнтерфейсаOData</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ВнешниеКомпоненты</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
