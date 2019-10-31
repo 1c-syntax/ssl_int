@@ -331,17 +331,6 @@
 		</right>
 	</object>
 	<object>
-		<name>InformationRegister.ОбработчикиСобытийСинхронизацииДанных</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>Catalog.КлючиДоступа</name>
 		<right>
 			<name>Read</name>
@@ -518,17 +507,6 @@
 		</right>
 		<right>
 			<name>Delete</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.НастройкиОбменаДаннымиXDTO</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -1409,17 +1387,6 @@
 		</right>
 	</object>
 	<object>
-		<name>InformationRegister.НастройкиТранспортаОбменаДанными</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>Constant.СтатусОбновленияКонфигурации</name>
 		<right>
 			<name>Read</name>
@@ -1963,17 +1930,6 @@
 		</right>
 	</object>
 	<object>
-		<name>InformationRegister.ПсевдонимыПредопределенныхУзлов</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>Catalog.ГруппыИсполнителейЗадач</name>
 		<right>
 			<name>Read</name>
@@ -2083,17 +2039,6 @@
 	</object>
 	<object>
 		<name>InformationRegister.СертификатыШифрования</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.УдалитьРезультатыОбменаДанными</name>
 		<right>
 			<name>Read</name>
 			<value>true</value>
