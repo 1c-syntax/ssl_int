@@ -1372,6 +1372,7 @@
 			<Form>ФормаЭлемента</Form>
 			<Form>ФормаГруппы</Form>
 			<Form>ФормаВыбораГруппы</Form>
+			<Form>ИсправлениеВидовКонтактнойИнформации</Form>
 		</ChildObjects>
 	</Catalog>
 </MetaDataObject>
