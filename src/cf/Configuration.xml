@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.9">
-	<Configuration uuid="bda1370b-eb2b-470c-a0be-75fce6513848">
+	<Configuration uuid="e78cba40-5b2b-47c2-8e03-34d79133f722">
 		<InternalInfo>
 			<xr:ContainedObject>
 				<xr:ClassId>9cd510cd-abfc-11d4-9434-004095e12fc7</xr:ClassId>
-				<xr:ObjectId>32e8595a-9caa-445c-82cc-4a00c3387803</xr:ObjectId>
+				<xr:ObjectId>4e089ede-b1d3-4537-8a73-e9b0508e1326</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>9fcd25a0-4822-11d4-9414-008048da11f9</xr:ClassId>
-				<xr:ObjectId>1ca13a96-4625-4e97-8120-eb0cc41a14a9</xr:ObjectId>
+				<xr:ObjectId>f82fdd65-313e-411c-ae4c-7cdb04d6361b</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>e3687481-0a87-462c-a166-9f34594f9bba</xr:ClassId>
-				<xr:ObjectId>8aec5d77-5d6d-4360-b653-a9ae7f9756a3</xr:ObjectId>
+				<xr:ObjectId>3c0ef492-82f5-4e61-9d47-f59aade632c6</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>9de14907-ec23-4a07-96f0-85521cb6b53b</xr:ClassId>
-				<xr:ObjectId>3e9a2667-000a-46e0-8d2c-793d9685c490</xr:ObjectId>
+				<xr:ObjectId>b555481e-9546-4fb5-8923-c7073294e5f9</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>51f2d5d8-ea4d-4064-8892-82951750031e</xr:ClassId>
-				<xr:ObjectId>b54504f8-2b1d-4b56-8425-8715ba57c943</xr:ObjectId>
+				<xr:ObjectId>0dbd86b4-312e-40a3-adee-1f8687367e07</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>e68182ea-4237-4383-967f-90c1e3370bc7</xr:ClassId>
-				<xr:ObjectId>eda2f9bf-bedd-4476-87b2-b3938466a05f</xr:ObjectId>
+				<xr:ObjectId>402fd57c-71da-4580-ba51-b3a3647a8991</xr:ObjectId>
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
@@ -49,7 +49,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.ИнтерактивноеОткрытиеВнешнихОтчетовИОбработок</xr:Item>
 			</DefaultRoles>
 			<Vendor>Фирма "1С"</Vendor>
-			<Version>3.1.2.335</Version>
+			<Version>3.1.2.343</Version>
 			<UpdateCatalogAddress>http://downloads.v8.1c.ru/tmplts/</UpdateCatalogAddress>
 			<IncludeHelpInContents>true</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -235,6 +235,7 @@
 			<StyleItem>МоиВариантыОтчетовЦвет</StyleItem>
 			<StyleItem>НепринятаяВерсия</StyleItem>
 			<StyleItem>НеПринятыеКИсполнениюЗадачи</StyleItem>
+			<StyleItem>НерабочийПериодПроизводственногоКалендаряФон</StyleItem>
 			<StyleItem>НеСтартованныйБизнесПроцесс</StyleItem>
 			<StyleItem>ОбразецНастройкиКолонтитуловЦвет</StyleItem>
 			<StyleItem>ОсновнойЭлементСписка</StyleItem>
@@ -330,7 +331,6 @@
 			<CommonPicture>ДокументПроведенКоннекторНиз</CommonPicture>
 			<CommonPicture>ДополнительныеРеквизитыСведения</CommonPicture>
 			<CommonPicture>ДополнительныеСведения</CommonPicture>
-			<CommonPicture>ЖелтыйШар</CommonPicture>
 			<CommonPicture>ЗавершитьРаботу</CommonPicture>
 			<CommonPicture>ЗавершитьРедактированиеМакета</CommonPicture>
 			<CommonPicture>ЗакончитьРедактированиеФайла</CommonPicture>
@@ -341,7 +341,6 @@
 			<CommonPicture>ЗаставкаВнешнейОперации</CommonPicture>
 			<CommonPicture>Зашифрован</CommonPicture>
 			<CommonPicture>ЗаявлениеНаВыпускСертификатаКлюча</CommonPicture>
-			<CommonPicture>ЗеленыйШар</CommonPicture>
 			<CommonPicture>ЗнакСтоп</CommonPicture>
 			<CommonPicture>ЗнакСтопЧБ</CommonPicture>
 			<CommonPicture>ЗначокЗаставкиВнешнейОперации</CommonPicture>
@@ -386,7 +385,6 @@
 			<CommonPicture>КонтактнаяИнформация</CommonPicture>
 			<CommonPicture>КонтактнаяИнформацияНеактуально</CommonPicture>
 			<CommonPicture>КонтактнаяИнформацияПерейтиПоСсылке</CommonPicture>
-			<CommonPicture>КрасныйШар</CommonPicture>
 			<CommonPicture>КурсивноеНачертание</CommonPicture>
 			<CommonPicture>Максимум</CommonPicture>
 			<CommonPicture>МенюДополнительныеФункции</CommonPicture>
@@ -458,6 +456,10 @@
 			<CommonPicture>ПриложитьФайл</CommonPicture>
 			<CommonPicture>ПрименитьПравилаОбработкиПисем</CommonPicture>
 			<CommonPicture>ПримечаниеЖурналаРегистрации</CommonPicture>
+			<CommonPicture>ПроверкаСертификатаНеВыполнялась</CommonPicture>
+			<CommonPicture>ПроверкаСертификатаОшибка</CommonPicture>
+			<CommonPicture>ПроверкаСертификатаПредупреждение</CommonPicture>
+			<CommonPicture>ПроверкаСертификатаУспех</CommonPicture>
 			<CommonPicture>ПроцессОтложен</CommonPicture>
 			<CommonPicture>ПрочиеПользовательскиеНастройки</CommonPicture>
 			<CommonPicture>Пустая</CommonPicture>
@@ -474,7 +476,6 @@
 			<CommonPicture>РедактироватьФайл</CommonPicture>
 			<CommonPicture>РежимИспользованияПриложенияВСервисеЛокально</CommonPicture>
 			<CommonPicture>СертификатКлюча</CommonPicture>
-			<CommonPicture>СерыйШар</CommonPicture>
 			<CommonPicture>СинхронизацияДанных</CommonPicture>
 			<CommonPicture>СинхронизацияДанныхАнализДанных48</CommonPicture>
 			<CommonPicture>СинхронизацияДанныхВыгрузить</CommonPicture>
