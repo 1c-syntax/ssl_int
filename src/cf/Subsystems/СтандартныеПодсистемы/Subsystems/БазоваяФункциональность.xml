@@ -251,6 +251,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.МультиязычностьСервер</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.МультиязычностьКлиент</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.МультиязычностьКлиентСервер</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.СтандартныеПодсистемыКлиентСерверЛокализация</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ИнтеграцияПодсистемБСПКлиентПовтИсп</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ИнтеграцияПодсистемБСППовтИсп</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">StyleItem.ОсновнойЭлементСписка</xr:Item>
@@ -273,6 +274,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.МультиязычностьПереопределяемый</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">SessionParameter.ОсновнойЯзык</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.МультиязычностьПовтИсп</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.ПодменюСервис</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.КонтрольДинамическогоОбновления</xr:Item>
 			</Content>
 		</Properties>

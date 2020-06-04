@@ -53,6 +53,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ЭлектронныеПодписи</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">DefinedType.ПодписанныйОбъект</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.РезультатПроверки</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ЭлектроннаяПодписьКлиентСерверЛокализация</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">StyleItem.ЗаявлениеНаВыпускСертификатаЗаголовокКлючевогоПоляШрифт</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.КлассификаторОшибокКриптографии</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Constant.ДатаПоследнегоОбновленияКлассификатораОшибок</xr:Item>

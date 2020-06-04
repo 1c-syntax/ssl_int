@@ -18,24 +18,24 @@
 		</Properties>
 		<ChildObjects>
 			<Subsystem>АнализЖурналаРегистрации</Subsystem>
-			<Subsystem>БазоваяФункциональность</Subsystem>
-			<Subsystem>ГрафикиРаботы</Subsystem>
-			<Subsystem>ЗавершениеРаботыПользователей</Subsystem>
-			<Subsystem>Валюты</Subsystem>
-			<Subsystem>ДатыЗапретаИзменения</Subsystem>
-			<Subsystem>БизнесПроцессыИЗадачи</Subsystem>
-			<Subsystem>ЗаметкиПользователя</Subsystem>
-			<Subsystem>ВариантыОтчетов</Subsystem>
-			<Subsystem>ИнтерфейсOData</Subsystem>
-			<Subsystem>ГрупповоеИзменениеОбъектов</Subsystem>
-			<Subsystem>ВызовОнлайнПоддержки</Subsystem>
-			<Subsystem>Банки</Subsystem>
-			<Subsystem>ДополнительныеОтчетыИОбработки</Subsystem>
-			<Subsystem>Анкетирование</Subsystem>
 			<Subsystem>ЗапретРедактированияРеквизитовОбъектов</Subsystem>
+			<Subsystem>ДополнительныеОтчетыИОбработки</Subsystem>
 			<Subsystem>ВерсионированиеОбъектов</Subsystem>
+			<Subsystem>Банки</Subsystem>
 			<Subsystem>Взаимодействия</Subsystem>
+			<Subsystem>Анкетирование</Subsystem>
+			<Subsystem>БизнесПроцессыИЗадачи</Subsystem>
+			<Subsystem>ВызовОнлайнПоддержки</Subsystem>
+			<Subsystem>БазоваяФункциональность</Subsystem>
 			<Subsystem>ЗагрузкаДанныхИзФайла</Subsystem>
+			<Subsystem>ИнтерфейсOData</Subsystem>
+			<Subsystem>ДатыЗапретаИзменения</Subsystem>
+			<Subsystem>ЗавершениеРаботыПользователей</Subsystem>
+			<Subsystem>ЗаметкиПользователя</Subsystem>
+			<Subsystem>ГрафикиРаботы</Subsystem>
+			<Subsystem>Валюты</Subsystem>
+			<Subsystem>ГрупповоеИзменениеОбъектов</Subsystem>
+			<Subsystem>ВариантыОтчетов</Subsystem>
 			<Subsystem>ВнешниеКомпоненты</Subsystem>
 			<Subsystem>ИнформацияПриЗапуске</Subsystem>
 			<Subsystem>КалендарныеГрафики</Subsystem>
@@ -72,6 +72,7 @@
 			<Subsystem>УдалениеПомеченныхОбъектов</Subsystem>
 			<Subsystem>УправлениеДоступом</Subsystem>
 			<Subsystem>УправлениеИтогамиИАгрегатами</Subsystem>
+			<Subsystem>УчетОригиналовПервичныхДокументов</Subsystem>
 			<Subsystem>ЦентрМониторинга</Subsystem>
 			<Subsystem>ШаблоныСообщений</Subsystem>
 			<Subsystem>ЭлектроннаяПодпись</Subsystem>
