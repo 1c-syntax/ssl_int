@@ -1213,10 +1213,6 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister.СеансыВерсийРасширений</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.СостоянияПредметовВзаимодействий</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
