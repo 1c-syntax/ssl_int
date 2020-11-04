@@ -1744,17 +1744,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Constant.ПроверятьИспользованиеУдаляемыхОбъектов</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>Constant.ЗаголовокСистемы</name>
 		<right>
 			<name>Read</name>
@@ -2195,17 +2184,6 @@
 	</object>
 	<object>
 		<name>InformationRegister.ДатыЗапретаИзменения</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.УдаляемыеОбъекты</name>
 		<right>
 			<name>Read</name>
 			<value>true</value>
