@@ -18,29 +18,31 @@
 		</Properties>
 		<ChildObjects>
 			<Subsystem>АнализЖурналаРегистрации</Subsystem>
-			<Subsystem>ЗапретРедактированияРеквизитовОбъектов</Subsystem>
-			<Subsystem>ДополнительныеОтчетыИОбработки</Subsystem>
-			<Subsystem>ВерсионированиеОбъектов</Subsystem>
-			<Subsystem>Банки</Subsystem>
-			<Subsystem>Взаимодействия</Subsystem>
-			<Subsystem>Анкетирование</Subsystem>
-			<Subsystem>БизнесПроцессыИЗадачи</Subsystem>
-			<Subsystem>ВызовОнлайнПоддержки</Subsystem>
-			<Subsystem>БазоваяФункциональность</Subsystem>
-			<Subsystem>ЗагрузкаДанныхИзФайла</Subsystem>
-			<Subsystem>ИнтерфейсOData</Subsystem>
-			<Subsystem>ДатыЗапретаИзменения</Subsystem>
 			<Subsystem>ЗавершениеРаботыПользователей</Subsystem>
-			<Subsystem>ЗаметкиПользователя</Subsystem>
-			<Subsystem>ГрафикиРаботы</Subsystem>
-			<Subsystem>Валюты</Subsystem>
+			<Subsystem>Банки</Subsystem>
+			<Subsystem>ДополнительныеОтчетыИОбработки</Subsystem>
+			<Subsystem>БизнесПроцессыИЗадачи</Subsystem>
 			<Subsystem>ГрупповоеИзменениеОбъектов</Subsystem>
-			<Subsystem>ВариантыОтчетов</Subsystem>
+			<Subsystem>ГрафикиРаботы</Subsystem>
+			<Subsystem>ЗагрузкаДанныхИзФайла</Subsystem>
 			<Subsystem>ВнешниеКомпоненты</Subsystem>
+			<Subsystem>ЗапретРедактированияРеквизитовОбъектов</Subsystem>
+			<Subsystem>ВызовОнлайнПоддержки</Subsystem>
+			<Subsystem>ИнтерфейсOData</Subsystem>
+			<Subsystem>Взаимодействия</Subsystem>
+			<Subsystem>ДатыЗапретаИзменения</Subsystem>
+			<Subsystem>Анкетирование</Subsystem>
+			<Subsystem>ЗаметкиПользователя</Subsystem>
+			<Subsystem>Валюты</Subsystem>
+			<Subsystem>БазоваяФункциональность</Subsystem>
+			<Subsystem>ВариантыОтчетов</Subsystem>
+			<Subsystem>ВерсионированиеОбъектов</Subsystem>
+			<Subsystem>ГенерацияШтрихкода</Subsystem>
 			<Subsystem>ИнформацияПриЗапуске</Subsystem>
 			<Subsystem>КалендарныеГрафики</Subsystem>
 			<Subsystem>КонтактнаяИнформация</Subsystem>
 			<Subsystem>КонтрольВеденияУчета</Subsystem>
+			<Subsystem>Мультиязычность</Subsystem>
 			<Subsystem>НапоминанияПользователя</Subsystem>
 			<Subsystem>НастройкаПорядкаЭлементов</Subsystem>
 			<Subsystem>НастройкиПрограммы</Subsystem>
