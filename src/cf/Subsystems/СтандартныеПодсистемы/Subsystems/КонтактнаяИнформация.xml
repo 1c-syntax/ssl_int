@@ -45,7 +45,6 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.GoogleMaps</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.ИсторияИзменений</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.МенюДополнительныеФункции</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.РаботаСАдресамиКлиент</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.РедактироватьАдресСайта</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.УправлениеКонтактнойИнформациейПереопределяемый</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">SessionParameter.ИнтерактивнаяПроверкаЗаполненияКонтактнойИнформации</xr:Item>
