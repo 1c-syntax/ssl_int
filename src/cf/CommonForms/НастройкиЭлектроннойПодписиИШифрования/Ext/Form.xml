@@ -115,54 +115,6 @@
 												<Value xsi:type="xr:DesignTimeRef">55a61245-62d0-45f3-8397-31b9b8787ccf.00000000-0000-0000-0000-000000000000</Value>
 											</xr:Value>
 										</xr:Item>
-										<xr:Item>
-											<xr:Presentation/>
-											<xr:CheckState>0</xr:CheckState>
-											<xr:Value xsi:type="FormChoiceListDesTimeValue">
-												<Presentation/>
-												<Value xsi:type="xr:DesignTimeRef">55a61245-62d0-45f3-8397-31b9b8787ccf.a51f7c6f-2631-4d23-becc-c0e8b711fddd</Value>
-											</xr:Value>
-										</xr:Item>
-										<xr:Item>
-											<xr:Presentation/>
-											<xr:CheckState>0</xr:CheckState>
-											<xr:Value xsi:type="FormChoiceListDesTimeValue">
-												<Presentation/>
-												<Value xsi:type="xr:DesignTimeRef">55a61245-62d0-45f3-8397-31b9b8787ccf.37806357-d92c-4bea-a5ef-77f138578fda</Value>
-											</xr:Value>
-										</xr:Item>
-										<xr:Item>
-											<xr:Presentation/>
-											<xr:CheckState>0</xr:CheckState>
-											<xr:Value xsi:type="FormChoiceListDesTimeValue">
-												<Presentation/>
-												<Value xsi:type="xr:DesignTimeRef">55a61245-62d0-45f3-8397-31b9b8787ccf.91b100e6-fbbe-4bb0-8d51-d12595a2a3e8</Value>
-											</xr:Value>
-										</xr:Item>
-										<xr:Item>
-											<xr:Presentation/>
-											<xr:CheckState>0</xr:CheckState>
-											<xr:Value xsi:type="FormChoiceListDesTimeValue">
-												<Presentation/>
-												<Value xsi:type="xr:DesignTimeRef">55a61245-62d0-45f3-8397-31b9b8787ccf.0a880538-f97f-448e-a4a9-82b0194dbe28</Value>
-											</xr:Value>
-										</xr:Item>
-										<xr:Item>
-											<xr:Presentation/>
-											<xr:CheckState>0</xr:CheckState>
-											<xr:Value xsi:type="FormChoiceListDesTimeValue">
-												<Presentation/>
-												<Value xsi:type="xr:DesignTimeRef">55a61245-62d0-45f3-8397-31b9b8787ccf.179868b7-d342-4df0-9386-c114d75faf3a</Value>
-											</xr:Value>
-										</xr:Item>
-										<xr:Item>
-											<xr:Presentation/>
-											<xr:CheckState>0</xr:CheckState>
-											<xr:Value xsi:type="FormChoiceListDesTimeValue">
-												<Presentation/>
-												<Value xsi:type="xr:DesignTimeRef">55a61245-62d0-45f3-8397-31b9b8787ccf.bbc4cc8c-31c2-4fcf-b86c-9ec65b2772b0</Value>
-											</xr:Value>
-										</xr:Item>
 									</ChoiceList>
 									<ContextMenu name="СертификатыПоказатьЗаявленияКонтекстноеМеню" id="335"/>
 									<ExtendedTooltip name="СертификатыПоказатьЗаявленияРасширеннаяПодсказка" id="336"/>
