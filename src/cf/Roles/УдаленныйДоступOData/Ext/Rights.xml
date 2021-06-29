@@ -260,6 +260,17 @@
 		</right>
 	</object>
 	<object>
+		<name>InformationRegister.НеудаленныеОбъекты</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Update</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>InformationRegister.НепринятыеКОбработкеПочтовымСерверомИсходящиеПисьма</name>
 		<right>
 			<name>Read</name>
@@ -2224,6 +2235,17 @@
 		</right>
 	</object>
 	<object>
+		<name>InformationRegister.ИспользуемыеВидыДоступа</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Update</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Constant.ОтложенноеОбновлениеВГлавномУзлеЗавершеноУспешно</name>
 		<right>
 			<name>Read</name>
@@ -2408,6 +2430,17 @@
 	</object>
 	<object>
 		<name>InformationRegister.КлючиДоступаГруппДоступа</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Update</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>InformationRegister.ИспользуемыеВидыДоступаПоТаблицам</name>
 		<right>
 			<name>Read</name>
 			<value>true</value>

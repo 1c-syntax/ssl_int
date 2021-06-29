@@ -18,25 +18,25 @@
 		</Properties>
 		<ChildObjects>
 			<Subsystem>АнализЖурналаРегистрации</Subsystem>
-			<Subsystem>ЗавершениеРаботыПользователей</Subsystem>
-			<Subsystem>Банки</Subsystem>
-			<Subsystem>ДополнительныеОтчетыИОбработки</Subsystem>
-			<Subsystem>БизнесПроцессыИЗадачи</Subsystem>
-			<Subsystem>ГрупповоеИзменениеОбъектов</Subsystem>
-			<Subsystem>ГрафикиРаботы</Subsystem>
-			<Subsystem>ЗагрузкаДанныхИзФайла</Subsystem>
-			<Subsystem>ВнешниеКомпоненты</Subsystem>
 			<Subsystem>ЗапретРедактированияРеквизитовОбъектов</Subsystem>
-			<Subsystem>ВызовОнлайнПоддержки</Subsystem>
-			<Subsystem>ИнтерфейсOData</Subsystem>
-			<Subsystem>Взаимодействия</Subsystem>
-			<Subsystem>ДатыЗапретаИзменения</Subsystem>
-			<Subsystem>Анкетирование</Subsystem>
-			<Subsystem>ЗаметкиПользователя</Subsystem>
-			<Subsystem>Валюты</Subsystem>
-			<Subsystem>БазоваяФункциональность</Subsystem>
-			<Subsystem>ВариантыОтчетов</Subsystem>
 			<Subsystem>ВерсионированиеОбъектов</Subsystem>
+			<Subsystem>ДополнительныеОтчетыИОбработки</Subsystem>
+			<Subsystem>Анкетирование</Subsystem>
+			<Subsystem>Банки</Subsystem>
+			<Subsystem>ГрупповоеИзменениеОбъектов</Subsystem>
+			<Subsystem>БизнесПроцессыИЗадачи</Subsystem>
+			<Subsystem>БазоваяФункциональность</Subsystem>
+			<Subsystem>ГрафикиРаботы</Subsystem>
+			<Subsystem>ВызовОнлайнПоддержки</Subsystem>
+			<Subsystem>ВариантыОтчетов</Subsystem>
+			<Subsystem>ВнешниеКомпоненты</Subsystem>
+			<Subsystem>ДатыЗапретаИзменения</Subsystem>
+			<Subsystem>ЗавершениеРаботыПользователей</Subsystem>
+			<Subsystem>ЗаметкиПользователя</Subsystem>
+			<Subsystem>ИнтерфейсOData</Subsystem>
+			<Subsystem>Валюты</Subsystem>
+			<Subsystem>ЗагрузкаДанныхИзФайла</Subsystem>
+			<Subsystem>Взаимодействия</Subsystem>
 			<Subsystem>ГенерацияШтрихкода</Subsystem>
 			<Subsystem>ИнформацияПриЗапуске</Subsystem>
 			<Subsystem>КалендарныеГрафики</Subsystem>

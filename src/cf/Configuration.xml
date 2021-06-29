@@ -1,34 +1,34 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.10">
-	<Configuration uuid="b6bd9088-d460-11eb-7b8e-0242ac110002">
+	<Configuration uuid="37c815d4-d990-11eb-7980-0242ac110002">
 		<InternalInfo>
 			<xr:ContainedObject>
 				<xr:ClassId>9cd510cd-abfc-11d4-9434-004095e12fc7</xr:ClassId>
-				<xr:ObjectId>b6bd9089-d460-11eb-7b8e-0242ac110002</xr:ObjectId>
+				<xr:ObjectId>37c815d5-d990-11eb-7980-0242ac110002</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>9fcd25a0-4822-11d4-9414-008048da11f9</xr:ClassId>
-				<xr:ObjectId>b6bd90c4-d460-11eb-7b8e-0242ac110002</xr:ObjectId>
+				<xr:ObjectId>37c81606-d990-11eb-7980-0242ac110002</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>e3687481-0a87-462c-a166-9f34594f9bba</xr:ClassId>
-				<xr:ObjectId>b6bd90ce-d460-11eb-7b8e-0242ac110002</xr:ObjectId>
+				<xr:ObjectId>37c81607-d990-11eb-7980-0242ac110002</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>9de14907-ec23-4a07-96f0-85521cb6b53b</xr:ClassId>
-				<xr:ObjectId>b6bd90cf-d460-11eb-7b8e-0242ac110002</xr:ObjectId>
+				<xr:ObjectId>37c81610-d990-11eb-7980-0242ac110002</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>51f2d5d8-ea4d-4064-8892-82951750031e</xr:ClassId>
-				<xr:ObjectId>b6bd90d8-d460-11eb-7b8e-0242ac110002</xr:ObjectId>
+				<xr:ObjectId>37c81611-d990-11eb-7980-0242ac110002</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>e68182ea-4237-4383-967f-90c1e3370bc7</xr:ClassId>
-				<xr:ObjectId>b6bd90d9-d460-11eb-7b8e-0242ac110002</xr:ObjectId>
+				<xr:ObjectId>37c8161a-d990-11eb-7980-0242ac110002</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>fb282519-d103-4dd3-bc12-cb271d631dfc</xr:ClassId>
-				<xr:ObjectId>ebaa193b-9cac-4264-8d6b-f5dc1cefb9a1</xr:ObjectId>
+				<xr:ObjectId>6df151c0-6dd7-40ea-8d4b-50e2e48e72ee</xr:ObjectId>
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
@@ -53,7 +53,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.ИнтерактивноеОткрытиеВнешнихОтчетовИОбработок</xr:Item>
 			</DefaultRoles>
 			<Vendor>Фирма "1С"</Vendor>
-			<Version>3.1.4.295</Version>
+			<Version>3.1.5.110</Version>
 			<UpdateCatalogAddress>http://downloads.v8.1c.ru/tmplts/</UpdateCatalogAddress>
 			<IncludeHelpInContents>true</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -479,6 +479,7 @@
 			<CommonPicture>ПиктограммыДоступаКНастройкамОтчета</CommonPicture>
 			<CommonPicture>ПиктограммыНастроекОтчета</CommonPicture>
 			<CommonPicture>ПиктограммыПланОбменаУзел</CommonPicture>
+			<CommonPicture>ПиктограммыТиповДанных</CommonPicture>
 			<CommonPicture>ПиктограммыЭлементов</CommonPicture>
 			<CommonPicture>ПиктограммыЭлементовСправочникаСостоянияОригиналовПервичныхДокументов</CommonPicture>
 			<CommonPicture>ПодключениеОбсуждений</CommonPicture>
@@ -509,6 +510,7 @@
 			<CommonPicture>ПриложитьФайл</CommonPicture>
 			<CommonPicture>ПрименитьПравилаОбработкиПисем</CommonPicture>
 			<CommonPicture>ПримечаниеЖурналаРегистрации</CommonPicture>
+			<CommonPicture>ПроверитьФормулу</CommonPicture>
 			<CommonPicture>ПроверкаСертификатаНеВыполнялась</CommonPicture>
 			<CommonPicture>ПроверкаСертификатаОшибка</CommonPicture>
 			<CommonPicture>ПроверкаСертификатаПредупреждение</CommonPicture>
@@ -543,11 +545,13 @@
 			<CommonPicture>СинхронизацияДанныхИнтерактивноеВыполнение</CommonPicture>
 			<CommonPicture>СинхронизацияДанныхКоллизия</CommonPicture>
 			<CommonPicture>СинхронизацияДанныхНастройка</CommonPicture>
+			<CommonPicture>СинхронизацияДанныхНедоступна</CommonPicture>
 			<CommonPicture>СинхронизацияДанныхНепринятыеПоДате</CommonPicture>
 			<CommonPicture>СинхронизацияДанныхОтключение</CommonPicture>
 			<CommonPicture>СинхронизацияДанныхПодсистема</CommonPicture>
 			<CommonPicture>СинхронизацияДанныхСостояниеСинхронизации</CommonPicture>
 			<CommonPicture>Сканирование</CommonPicture>
+			<CommonPicture>Скачать</CommonPicture>
 			<CommonPicture>СкопироватьВБуферОбмена</CommonPicture>
 			<CommonPicture>Скрепка</CommonPicture>
 			<CommonPicture>СкрытаяНастройкаОтчета</CommonPicture>
@@ -579,6 +583,7 @@
 			<CommonPicture>СостоянияРасширенийОшибка</CommonPicture>
 			<CommonPicture>СостоянияРасширенийПодключено</CommonPicture>
 			<CommonPicture>СохранитьВариантОтчета</CommonPicture>
+			<CommonPicture>СохранитьКак</CommonPicture>
 			<CommonPicture>СохранитьФайлКак</CommonPicture>
 			<CommonPicture>СправкаВНачало</CommonPicture>
 			<CommonPicture>СправкаПереходВниз</CommonPicture>
@@ -611,14 +616,19 @@
 			<CommonPicture>Телеграм16х16</CommonPicture>
 			<CommonPicture>ТелефонныйЗвонок</CommonPicture>
 			<CommonPicture>ТипБулево</CommonPicture>
+			<CommonPicture>ТипГиперссылка</CommonPicture>
 			<CommonPicture>ТипГруппа</CommonPicture>
 			<CommonPicture>ТипДата</CommonPicture>
 			<CommonPicture>ТипДерево</CommonPicture>
 			<CommonPicture>ТипИдентификатор</CommonPicture>
+			<CommonPicture>ТипКартинка</CommonPicture>
 			<CommonPicture>ТипКонстанта</CommonPicture>
 			<CommonPicture>ТипМакрос</CommonPicture>
+			<CommonPicture>ТипНеопределено</CommonPicture>
 			<CommonPicture>ТипОшибка</CommonPicture>
-			<CommonPicture>ТипСоставной</CommonPicture>
+			<CommonPicture>ТипПапка</CommonPicture>
+			<CommonPicture>ТипСоставнойДополнительный</CommonPicture>
+			<CommonPicture>ТипСоставнойОсновной</CommonPicture>
 			<CommonPicture>ТипСписок</CommonPicture>
 			<CommonPicture>ТипСсылка</CommonPicture>
 			<CommonPicture>ТипСтрока</CommonPicture>
@@ -796,6 +806,7 @@
 			<Role>ЧтениеСостоянийОригиналовПервичныхДокументов</Role>
 			<Role>ЧтениеУчетныхЗаписейЭлектроннойПочты</Role>
 			<Role>ЧтениеШаблоновСообщений</Role>
+			<CommonTemplate>ИнструкцияДляУстановкиКодаДляПредопределенногоУзла_ru</CommonTemplate>
 			<CommonTemplate>ИнструкцияКакВыполнитьУстановкуОбновленияВручную</CommonTemplate>
 			<CommonTemplate>ИнструкцияПоСозданиюФаксимильнойПодписиИПечати</CommonTemplate>
 			<CommonTemplate>КомпонентаTWAIN</CommonTemplate>
@@ -829,6 +840,7 @@
 			<CommonModule>БизнесПроцессыИЗадачиСервер</CommonModule>
 			<CommonModule>БизнесПроцессыИЗадачиСобытия</CommonModule>
 			<CommonModule>БлокировкаРаботыСВнешнимиРесурсами</CommonModule>
+			<CommonModule>БлокировкаРаботыСВнешнимиРесурсамиПереопределяемый</CommonModule>
 			<CommonModule>ВариантыОтчетов</CommonModule>
 			<CommonModule>ВариантыОтчетовВызовСервера</CommonModule>
 			<CommonModule>ВариантыОтчетовКлиент</CommonModule>
@@ -925,6 +937,10 @@
 			<CommonModule>КалендарныеГрафики</CommonModule>
 			<CommonModule>КалендарныеГрафикиПереопределяемый</CommonModule>
 			<CommonModule>КалендарныеГрафикиСлужебный</CommonModule>
+			<CommonModule>КонструкторФормул</CommonModule>
+			<CommonModule>КонструкторФормулКлиент</CommonModule>
+			<CommonModule>КонструкторФормулКлиентСервер</CommonModule>
+			<CommonModule>КонструкторФормулСлужебный</CommonModule>
 			<CommonModule>КонтрольВеденияУчета</CommonModule>
 			<CommonModule>КонтрольВеденияУчетаВызовСервера</CommonModule>
 			<CommonModule>КонтрольВеденияУчетаГлобальный</CommonModule>
@@ -994,6 +1010,7 @@
 			<CommonModule>ОбщегоНазначенияКлиентПовтИсп</CommonModule>
 			<CommonModule>ОбщегоНазначенияКлиентСервер</CommonModule>
 			<CommonModule>ОбщегоНазначенияПереопределяемый</CommonModule>
+			<CommonModule>ОбщегоНазначенияСлужебный</CommonModule>
 			<CommonModule>ОбщегоНазначенияСлужебныйКлиент</CommonModule>
 			<CommonModule>ОбщегоНазначенияСлужебныйКлиентСервер</CommonModule>
 			<CommonModule>ОтправкаSMS</CommonModule>
@@ -1001,10 +1018,6 @@
 			<CommonModule>ОтправкаSMSКлиентПереопределяемый</CommonModule>
 			<CommonModule>ОтправкаSMSПереопределяемый</CommonModule>
 			<CommonModule>ОтправкаSMSПовтИсп</CommonModule>
-			<CommonModule>ОтправкаSMSЧерезSMS4B</CommonModule>
-			<CommonModule>ОтправкаSMSЧерезSMSRU</CommonModule>
-			<CommonModule>ОтправкаSMSЧерезSMSЦЕНТР</CommonModule>
-			<CommonModule>ОтправкаSMSЧерезСМСУслуги</CommonModule>
 			<CommonModule>ОтчетОДвиженияхДокументаПереопределяемый</CommonModule>
 			<CommonModule>ОтчетОДвиженияхДокументаСлужебныйКлиент</CommonModule>
 			<CommonModule>ОтчетыКлиент</CommonModule>
@@ -1312,7 +1325,7 @@
 			<EventSubscription>ЗаполнитьЗначениеРеквизитаУпорядочивания</EventSubscription>
 			<EventSubscription>ЗаполнитьКонтактнуюИнформацию</EventSubscription>
 			<EventSubscription>ЗаполнитьНаборыЗначенийДоступаТабличныхЧастей</EventSubscription>
-			<EventSubscription>ЗаполнитьНаборыЗначенийДоступаТабличныхЧастейДокументовВзаимодействия</EventSubscription>
+			<EventSubscription>ЗаполнитьНаборыЗначенийДоступаТабличныхЧастейДокументов</EventSubscription>
 			<EventSubscription>ЗапретитьИспользованиеУдаляемыхОбъектовВДокументах</EventSubscription>
 			<EventSubscription>ЗапретитьИспользованиеУдаляемыхОбъектовВКонстантах</EventSubscription>
 			<EventSubscription>ЗапретитьИспользованиеУдаляемыхОбъектовВНаборахЗаписей</EventSubscription>
@@ -1343,6 +1356,7 @@
 			<EventSubscription>ОтменитьОтправкуДанныхУзлаВРаспределеннойИнформационнойБазе</EventSubscription>
 			<EventSubscription>ОчиститьИнформациюОбАвтореВерсии</EventSubscription>
 			<EventSubscription>ОчиститьСсылкиНаУзелИнформационнойБазы</EventSubscription>
+			<EventSubscription>ПередУдалениемПланаОбмена</EventSubscription>
 			<EventSubscription>ПолучениеПолейПредставленияВзаимодействия</EventSubscription>
 			<EventSubscription>ПолучениеПредставленияВзаимодействия</EventSubscription>
 			<EventSubscription>ПолучитьПоляПредставленияБизнесПроцесса</EventSubscription>
@@ -1496,6 +1510,7 @@
 			<DefinedType>ВладелецНастроекПравОбъект</DefinedType>
 			<DefinedType>ВладелецПрисоединенныхФайлов</DefinedType>
 			<DefinedType>ВладелецПрисоединенныхФайловОбъект</DefinedType>
+			<DefinedType>ВладелецСОграничениемПоНаборамЗначенийДоступаДокумент</DefinedType>
 			<DefinedType>ВладелецСОграничениемПоНаборамЗначенийДоступаОбъект</DefinedType>
 			<DefinedType>ВладелецФайлов</DefinedType>
 			<DefinedType>ВладелецШаблонаСообщения</DefinedType>
@@ -1532,6 +1547,7 @@
 			<DefinedType>ПрисоединенныйФайл</DefinedType>
 			<DefinedType>ПрисоединенныйФайлОбъект</DefinedType>
 			<DefinedType>Респондент</DefinedType>
+			<DefinedType>Сотрудник</DefinedType>
 			<DefinedType>УточнениеКонтекстаПроверокВеденияУчета</DefinedType>
 			<DefinedType>ФизическоеЛицо</DefinedType>
 			<CommonCommand>АвтономнаяРабота</CommonCommand>
@@ -1559,6 +1575,7 @@
 			<CommonCommand>НастройкаСистемнойУчетнойЗаписиЭлектроннойПочты</CommonCommand>
 			<CommonCommand>НастройкиПодключения</CommonCommand>
 			<CommonCommand>НастройкиСинхронизацииДанных</CommonCommand>
+			<CommonCommand>НастройкиСинхронизацииДанныхВМоделиСервиса</CommonCommand>
 			<CommonCommand>НачатьИнтервью</CommonCommand>
 			<CommonCommand>Обсуждения</CommonCommand>
 			<CommonCommand>ОтправитьSMS</CommonCommand>
@@ -1577,7 +1594,6 @@
 			<CommonCommand>СведенияОПользователе</CommonCommand>
 			<CommonCommand>СвязанныеДокументы</CommonCommand>
 			<CommonCommand>СвязатьсяСоСпециалистомОнлайнПоддержки</CommonCommand>
-			<CommonCommand>СинхронизацияДанныхВМоделиСервиса</CommonCommand>
 			<CommonCommand>Синхронизировать</CommonCommand>
 			<CommonCommand>СинхронизироватьСДополнительнымиПараметрами</CommonCommand>
 			<CommonCommand>СменитьПароль</CommonCommand>
@@ -1614,6 +1630,7 @@
 			<Constant>ДополнительныйЯзык1</Constant>
 			<Constant>ДополнительныйЯзык2</Constant>
 			<Constant>ЗаголовокСистемы</Constant>
+			<Constant>ЗагрузитьРасширенияИзменяющиеСтруктуруДанных</Constant>
 			<Constant>ЗагрузитьСообщениеОбменаДанными</Constant>
 			<Constant>ЗапретитьОтображениеНебезопасногоСодержимогоВПисьмах</Constant>
 			<Constant>ЗапрещатьЗагрузкуФайловПоРасширению</Constant>
@@ -1770,6 +1787,7 @@
 			<CommonForm>НастройкаРабочегоКаталога</CommonForm>
 			<CommonForm>НастройкиВходаПользователей</CommonForm>
 			<CommonForm>НастройкиПравОбъектов</CommonForm>
+			<CommonForm>НастройкиСинхронизацииДанных</CommonForm>
 			<CommonForm>НастройкиЭлектроннойПодписиИШифрования</CommonForm>
 			<CommonForm>НовыйПароль</CommonForm>
 			<CommonForm>ОписаниеИзмененийПрограммы</CommonForm>
@@ -1800,7 +1818,6 @@
 			<CommonForm>РезультатПроверки</CommonForm>
 			<CommonForm>СвязанныеДокументы</CommonForm>
 			<CommonForm>Сертификат</CommonForm>
-			<CommonForm>СинхронизацияДанных</CommonForm>
 			<CommonForm>СменаПароля</CommonForm>
 			<CommonForm>СозданиеНачальногоОбразаСФайлами</CommonForm>
 			<CommonForm>СохранениеВместеСЭлектроннойПодписью</CommonForm>
@@ -1892,6 +1909,8 @@
 			<Enum>ВариантыВерсионированияОбъектов</Enum>
 			<Enum>ВариантыИспользованияВнешнихКомпонент</Enum>
 			<Enum>ВариантыОчисткиФайлов</Enum>
+			<Enum>ВариантыПериода</Enum>
+			<Enum>ВариантыПредставленияПериода</Enum>
 			<Enum>ВариантыПубликацииДополнительныхОтчетовИОбработок</Enum>
 			<Enum>ВариантыСжатияTIFF</Enum>
 			<Enum>ВидыДнейПроизводственногоКалендаря</Enum>
@@ -2004,6 +2023,7 @@
 			<DataProcessor>КонвертацияОбъектовXDTO</DataProcessor>
 			<DataProcessor>КонвертацияОбъектовИнформационныхБаз</DataProcessor>
 			<DataProcessor>КонвертацияОбъектовРаспределенныхИнформационныхБаз</DataProcessor>
+			<DataProcessor>КонструкторФормул</DataProcessor>
 			<DataProcessor>ЛегальностьПолученияОбновлений</DataProcessor>
 			<DataProcessor>НастройкаРазрешенийНаИспользованиеВнешнихРесурсов</DataProcessor>
 			<DataProcessor>НастройкаРезервногоКопированияИБ</DataProcessor>
@@ -2012,6 +2032,7 @@
 			<DataProcessor>НастройкиЦентраМониторинга</DataProcessor>
 			<DataProcessor>НерекомендуемаяВерсияПлатформы</DataProcessor>
 			<DataProcessor>ОписаниеОбработчиковОбновления</DataProcessor>
+			<DataProcessor>ОтложеннаяЗаписьУзла</DataProcessor>
 			<DataProcessor>ОценкаПроизводительности</DataProcessor>
 			<DataProcessor>ПанельАдминистрированияБСП</DataProcessor>
 			<DataProcessor>ПанельАдминистрированияБСПВМоделиСервиса</DataProcessor>
@@ -2075,6 +2096,8 @@
 			<InformationRegister>ИсполнителиЗадач</InformationRegister>
 			<InformationRegister>ИспользованиеДополнительныхОтчетовИОбработокСервисаВАвтономномРабочемМесте</InformationRegister>
 			<InformationRegister>ИспользованиеПоставляемыхДополнительныхОтчетовИОбработокВОбластяхДанных</InformationRegister>
+			<InformationRegister>ИспользуемыеВидыДоступа</InformationRegister>
+			<InformationRegister>ИспользуемыеВидыДоступаПоТаблицам</InformationRegister>
 			<InformationRegister>КалендарныеГрафики</InformationRegister>
 			<InformationRegister>КлючиДоступаВнешнихПользователей</InformationRegister>
 			<InformationRegister>КлючиДоступаГруппДоступа</InformationRegister>
